@@ -1,5 +1,3 @@
-# eCarePro
-
 ## Install NX globally
 
 `npm i --global nx@latest --legacy-peer-deps`
